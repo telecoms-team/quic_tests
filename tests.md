@@ -5,13 +5,15 @@
 * Spencer
 * Zoe
 * Aaron
-
+## What we are doing for
+QUICBBR, TCP RENO, TCP Vegas
 ## Latency Compared to TCP with TLS (Spencer)
 
 ## Performance in Degraded Networks (Spencer)
 
 ## Congestion Control (Aaron)
 After comparing the following code paramters I have seen a difference up to 0.055312 ms due to the amount of congestion that can be seen.
+
 '''
 std::string transport_prot = "QuicBbr";
   double error_p = 0.0;
