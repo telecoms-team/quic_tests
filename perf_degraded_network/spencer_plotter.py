@@ -5,7 +5,7 @@ import re
 import numpy as np
 
 # options: 'rtt', 'cwnd-change', 'rwnd-change', 'rx-data'
-metric = 'cwnd-change'
+metric = 'rtt'
 
 # QUIC
 time = []
